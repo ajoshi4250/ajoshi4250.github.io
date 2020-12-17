@@ -28,3 +28,18 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+Website template edited by Adya Joshi (me) to make an E-Portfolio for the Public Leadership Scholars Program at the University of Maryland, College Park
+
+Last updated: 12/17/2020 at 1:00 AM EST
+
+Background Image:
+	Sonder Quest on Unsplash
+	
+Logos:
+	Provided by the University of Maryland, College Park
+	
+Image of self:
+	Taken by Prestige Portraits as a senior picture, owned by me
+	
+All attached documents are my own work unless stated otherwise.
