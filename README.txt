@@ -42,4 +42,4 @@ Logos:
 Image of self:
 	Taken by Prestige Portraits as a senior picture, owned by me
 	
-All attached documents are my own work unless stated otherwise.
+All attached documents and text are my own work unless stated otherwise.
